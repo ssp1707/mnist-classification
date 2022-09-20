@@ -13,10 +13,9 @@ It is a widely used and deeply understood dataset and, for the most part, is “
 
 ![image](https://user-images.githubusercontent.com/75235813/190914706-5a654e37-59c4-4115-8e76-079f569c01bc.png)
 
-
 ## Neural Network Model
 
-Include the neural network model diagram.
+![image](https://user-images.githubusercontent.com/75235813/190948936-0031040a-8593-49f9-b363-b4ad12c95de8.png)
 
 ## DESIGN STEPS
 
@@ -49,7 +48,7 @@ Predict  the output for the given handwritten input.
 
 ## PROGRAM
 ```
-Developed by: S. Sanjna Priya
+Developed by: S.Sanjna Priya
 Registration number: 212220230043
 ```
 ```
